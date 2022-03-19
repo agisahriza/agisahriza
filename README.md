@@ -7,7 +7,7 @@
 
 ## :book: About me
 - 🔭 I’m currently studying at [Lambung Mangkurat University](https://ulm.ac.id/)
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/agisahriza/), [LinkedIn](https://www.instagram.com/agisahriza)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/agisahriza/), [Instagram](https://www.instagram.com/agisahriza)
 
 ## 📊 Stats
 <p align="left">
